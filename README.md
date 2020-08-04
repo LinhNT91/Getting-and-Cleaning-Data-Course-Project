@@ -4,8 +4,7 @@ This repository is a Linh Ngo submission for Getting and Cleaning Data course pr
 Dataset
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Files
-CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+Files:
 
 run_analysis.R performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
 Merges the training and the test sets to create one data set.
